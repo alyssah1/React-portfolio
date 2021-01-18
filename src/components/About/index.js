@@ -18,6 +18,7 @@ function About() {
                             <h2 className="aboutme">About Me</h2>
                         </div>
                     </div>
+                    <hr className="line"></hr>
                         <div className="row">
                             <div className="col-md-3 col-sm-12 d-flex align-items-center justify-content-center" >
 

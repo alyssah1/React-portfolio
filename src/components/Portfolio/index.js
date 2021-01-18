@@ -1,29 +1,56 @@
 import React from "react";
-import resume from "../../images/Resume.pdf";
 import "../../assets/css/style.css";
+import codequiz from "../../images/codequiz.png";
+import budget from "../../images/budget.png";
+import employeedirectory from "../../images/employeedirectory.png";
+import employeesummary from "../../images/employeesummary.png";
+import project1page from "../../images/project1page.png";
+import readme from "../../images/readme.png";
 
-function Home() {
+function Portfolio() {
     return (
         <>
-            <div className="text-left homepage justify-content-center">
-                <div className="container-fluid ">
-                    <h3 className="header-name ml-5" >Hello,</h3>
-                    <h3 className="header-name ml-5 ">My name is Alyssa Hollowell</h3>
-                    <p className="header-bottom ml-5">And I'm a Full Stack Web Developer</p>
-                    <div className="mb-3 mt-5 ml-5">
-
-                        <a href="https://github.com/alyssah1" className="btnicon" title="Github" target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square"></i></a>
-                        <a href="https://www.linkedin.com/in/alyssa-hollowell-86b240192/" className="btnicon" title="Linkedin"
-                            target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a>
-                        <a href="mailto:alyssa.hollowell2@gmail.com" className="btnicon" title="Email" target="_blank" rel="noopener noreferrer"
-                            ><i className="fas fa-envelope-square"></i></a>
-                        <a href={resume} className="btnicon" title="Resume" target="_blank" rel="noopener noreferrer"><i className="fas fa-file-alt"></i></a>
-
-                    </div>
+        <div className="container">
+        <section className="portfolio-section">
+            <div className="row">
+            <div>
+                <h2 className="portfolio">Portfolio</h2>
+            </div>
+                <div className="col-md-3">
+                    <a href="https://alyssah1.github.io/Code-quiz-1/">
+                        <img className="img-link" src={codequiz} alt="Code Quiz" />
+                    </a>
+                </div>
+                <div className="col-md-3">
+                    <a href="https://radiant-gorge-18763.herokuapp.com">
+                        <img className="img-link" src={budget} alt="Budget tracker" />
+                    </a>
+                </div>
+                <div className="col-md-3">
+                    <a href="https://alyssah1.github.io/Employee-directory/">
+                        <img className="img-link" src={employeedirectory} alt="Employee directory" />
+                    </a>
+                </div>
+                <div className="col-md-3">
+                    <a href="https://github.com/alyssah1/Employee-summary">
+                        <img className="img-link" src={employeesummary} alt="Employee summary" />
+                    </a>
+                </div>
+                <div className="col-md-3">
+                    <a href="https://immense-hollows-39774.herokuapp.com/login">
+                        <img className="img-link" src={project1page} alt="Project 2" />
+                    </a>
+                </div>
+                <div className="col-md-3">
+                    <a href="https://github.com/alyssah1/README-generator">
+                        <img className="img-link" src={readme} alt="Readme generator" />
+                    </a>
                 </div>
             </div>
-        </>
+        </section>
+    </div>
+    </>
     )
 }
 
-export default Home;
+export default Portfolio;
