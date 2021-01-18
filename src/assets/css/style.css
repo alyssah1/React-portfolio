@@ -12,7 +12,7 @@ a.li-list:hover{
     color: #003366;
 }
 
-.home{
+.homepage{
     height: 100vh;
     width: 100%;
     display: flex; 
@@ -25,7 +25,7 @@ a.li-list:hover{
     color: #003366;
 }
 
-.header-description{
+.header-bottom{
     font-size: 25px;
     text-shadow: 0px 1px 3px rgb(33, 33, 88);
     color: #003366;
@@ -37,4 +37,19 @@ a.li-list:hover{
 
 .picture{
     width: 220px;
+}
+
+.btnicon{
+    font-size: 35px;
+    color: #00ced1;
+    margin-right: 30px;
+}
+
+a.btnicon:hover{
+    color: #003366;
+}
+
+.aboutme{
+    font-size: 40px;
+    text-align: center;
 }

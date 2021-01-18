@@ -32,7 +32,6 @@ function About() {
                             I am a current student at Rice University Full Stack Web Development Coding Bootcamp. 
                             I became interested in web development because I am able to show off my creativity and analytical skills. 
                             Some of the languages I am currently learning are HTML, CSS and Javascript.
-                            
                             </p>
                             </div>
                         </div>
