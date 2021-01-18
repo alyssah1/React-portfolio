@@ -59,6 +59,29 @@ a.btnicon:hover{
 }
 
 .img-link{
-    width: 250px;
-    height: 250px;
+    width: 265px;
+    height: 265px;
+    padding: 20px;
+    border-style: inset;
+    border: 1px solid black;
+}
+
+#portfolio{
+    margin: 45px;
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #6897bb;
+    color: white;
+    text-align: center;
+}
+
+#contact{
+    margin: 45px;
+    text-align:center;
 }

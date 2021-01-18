@@ -46,6 +46,9 @@ function App() {
             <Contact/>
           </Route>
       </Switch>
+      <footer className="footer">
+        @Copyright 2020 Alyssa Hollowell
+      </footer>
   </Router>
   );
 }
