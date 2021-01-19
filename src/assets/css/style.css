@@ -78,6 +78,7 @@ a.btnicon:hover{
     margin: 45px;
     text-align: center;
     text-shadow: 0px 4px 4px #6897bb;
+    padding-top: 20px;
 }
 
 .footer{
@@ -94,6 +95,7 @@ a.btnicon:hover{
     margin: 45px;
     text-align:center;
     text-shadow: 0px 4px 4px #6897bb;
+    padding-top: 20px;
 }
 
 .number{
