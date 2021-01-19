@@ -12,11 +12,11 @@ function Contact () {
         <hr className="line"></hr>
         <div className="mb-3">
             <label for="exampleFormControlInput1" className="form-label">First Name</label>
-            <input type="firstname" className="form-control" id="exampleFormControlInput1" placeholder=" First Name"></input>
+            <input type="firstname" className="form-control" id="exampleFormControlInput1" placeholder="First Name"></input>
         </div>
         <div className="mb-3">
             <label for="exampleFormControlInput1" className="form-label">Last Name</label>
-            <input type="lastname" className="form-control" id="exampleFormControlInput1" placeholder=" Last Name"></input>
+            <input type="lastname" className="form-control" id="exampleFormControlInput1" placeholder="Last Name"></input>
         </div>
         <div className="mb-3">
             <label for="exampleFormControlInput1" className="form-label">Email Address</label>

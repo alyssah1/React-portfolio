@@ -17,7 +17,7 @@ a.li-list:hover{
     width: 100%;
     display: flex; 
     flex-direction: column;
-    background: #f5f5f5;
+    background-image: linear-gradient(to right, #eeeeee, #c6e2ff);
 }
 
 .header-name{
@@ -47,11 +47,16 @@ a.li-list:hover{
 
 a.btnicon:hover{
     color: #003366;
+    border-radius: 30px;
+    transition: 1.1s;
+    transform: scale(0.9);
+    box-shadow: 0px 30px 30px -3px;
 }
 
 .aboutme{
     font-size: 40px;
     text-align: center;
+    text-shadow: 0px 4px 4px #6897bb;
 }
 
 .line{
@@ -64,11 +69,15 @@ a.btnicon:hover{
     padding: 20px;
     border-style: inset;
     border: 1px solid black;
+    box-shadow: 0px 13px 13px -5px;
+    color: gray;
+    
 }
 
 #portfolio{
     margin: 45px;
     text-align: center;
+    text-shadow: 0px 4px 4px #6897bb;
 }
 
 .footer{
@@ -84,6 +93,7 @@ a.btnicon:hover{
 #contact{
     margin: 45px;
     text-align:center;
+    text-shadow: 0px 4px 4px #6897bb;
 }
 
 .number{
@@ -95,3 +105,4 @@ a.btnicon:hover{
     text-align: center;
     font-size: 18px;
 }
+

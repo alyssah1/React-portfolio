@@ -15,8 +15,7 @@ function Home() {
                         <a href="https://github.com/alyssah1" className="btnicon" title="Github" target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square"></i></a>
                         <a href="https://www.linkedin.com/in/alyssa-hollowell-86b240192/" className="btnicon" title="Linkedin"
                             target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a>
-                        <a href="mailto:alyssa.hollowell2@gmail.com" className="btnicon" title="Email" target="_blank" rel="noopener noreferrer"
-                            ><i className="fas fa-envelope-square"></i></a>
+                        <a href="mailto:alyssa.hollowell2@gmail.com" className="btnicon" title="Email" target="_blank" rel="noopener noreferrer"><i className="fas fa-envelope-square"></i></a>
                         <a href={resume} className="btnicon" title="Resume" target="_blank" rel="noopener noreferrer"><i className="fas fa-file-alt"></i></a>
 
                     </div>

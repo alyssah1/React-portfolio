@@ -47,7 +47,7 @@ function App() {
           </Route>
       </Switch>
       <footer className="footer">
-        @Copyright 2020 Alyssa Hollowell
+        <i className="far fa-copyright"></i>Copyright 2020 Alyssa Hollowell
       </footer>
   </Router>
   );
