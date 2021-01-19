@@ -85,3 +85,13 @@ a.btnicon:hover{
     margin: 45px;
     text-align:center;
 }
+
+.number{
+    text-align: center;
+    font-size: 18px;
+}
+
+.location{
+    text-align: center;
+    font-size: 18px;
+}
