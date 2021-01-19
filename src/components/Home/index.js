@@ -2,6 +2,7 @@ import React from "react";
 import resume from "../../images/Resume.pdf";
 import "../../assets/css/style.css";
 
+
 function Home() {
     return (
         <>

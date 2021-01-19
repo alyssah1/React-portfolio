@@ -3,8 +3,6 @@ import picture from '../../images/picture.png';
 import "../../assets/css/style.css";
 
 
-
-
 function About() {
     return (
         <>

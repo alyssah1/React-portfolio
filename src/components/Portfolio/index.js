@@ -7,6 +7,7 @@ import employeesummary from "../../images/employeesummary.png";
 import project1page from "../../images/project1page.png";
 import readme from "../../images/readme.png";
 
+
 function Portfolio() {
     return (
         <>
