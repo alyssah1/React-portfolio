@@ -26,5 +26,6 @@ This is my most current portfolio which includes six of my projects, information
 If you have any questions please use the contacts down below:
 
 Email address: alyssa.hollowell2@gmail.com
+
 GitHub account: alyssah1
 
