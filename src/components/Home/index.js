@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../images/Resume.pdf";
+import Resume from "../../images/Resume.pdf";
 import "../../assets/css/style.css";
 
 
@@ -17,7 +17,7 @@ function Home() {
                         <a href="https://www.linkedin.com/in/alyssa-hollowell-86b240192/" className="btnicon" title="Linkedin"
                             target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a>
                         <a href="mailto:alyssa.hollowell2@gmail.com" className="btnicon" title="Email" target="_blank" rel="noopener noreferrer"><i className="fas fa-envelope-square"></i></a>
-                        <a href={resume} className="btnicon" title="Resume" target="_blank" rel="noopener noreferrer"><i className="fas fa-file-alt"></i></a>
+                        <a href={Resume} className="btnicon" title="Resume" target="_blank" rel="noopener noreferrer"><i className="fas fa-file-alt"></i></a>
 
                     </div>
                 </div>
