@@ -8,26 +8,13 @@ function Contact () {
 <div className="container">
     <section className="contact-section">
         <h1 id="contact">Contact</h1>
-        <h3 className="number"><i className="fas fa-phone-square"></i>(469)-323-1038</h3>
-        <h3 className="location"><i className="fas fa-map-marker-alt"></i>Houston, Texas</h3>
         <hr className="line"></hr>
-        <div className="mb-3">
-            <label for="exampleFormControlInput1" className="form-label">First Name</label>
-            <input type="firstname" className="form-control" id="exampleFormControlInput1" placeholder="First Name"></input>
-        </div>
-        <div className="mb-3">
-            <label for="exampleFormControlInput1" className="form-label">Last Name</label>
-            <input type="lastname" className="form-control" id="exampleFormControlInput1" placeholder="Last Name"></input>
-        </div>
-        <div className="mb-3">
-            <label for="exampleFormControlInput1" className="form-label">Email Address</label>
-            <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="Name@example.com"></input>
-        </div>
-        <div className="mb-3">
-            <label for="exampleFormControlTextarea1" className="form-label">Message</label>
-            <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-        </div>
-        <button type="button" className="btn btn-light btn-lg" style={{backgroundColor: "#6897bb"}}>Submit</button>
+            <div className="btn-group rounded" style={{padding: "60px", display: "flex", justifyContent: "space-evenly", alignItems: "center"}}>   
+                    <button className="button"><a href="mailto:alyssa.hollowell2@gmail.com" rel="noopener noreferrer" target="_blank"><i className="fas fa-envelope-square fa-8x"></i><h4>Email</h4></a></button>
+                    <button className="button"><a href="https://github.com/alyssah1" rel="noopener noreferrer" target="_blank"><i className="fab fa-github-square fa-8x"></i><h4>GitHub</h4></a></button>
+                    <button className="button"><a href="https://www.linkedin.com/in/alyssa-hollowell-86b240192/" rel="noopener noreferrer" target="_blank"><i className="fab fa-linkedin-in fa-8x"></i><h4>LinkedIn</h4></a></button>
+                    <button className="button"><i className="fas fa-phone-square-alt fa-8x"></i><h5>(469)-323-1038</h5></button>
+            </div>
     </section>
 </div>
     </>
