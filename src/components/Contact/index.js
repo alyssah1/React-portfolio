@@ -9,7 +9,7 @@ function Contact () {
     <section className="contact-section">
         <h1 id="contact">Contact</h1>
         <hr className="line"></hr>
-            <div className="btn-group rounded" style={{padding: "60px", display: "flex", justifyContent: "space-evenly", alignItems: "center"}}>   
+            <div className="row btn-group rounded" style={{padding: "60px", display: "flex", justifyContent: "space-evenly", alignItems: "center"}}>   
                     <button className="button"><a href="mailto:alyssa.hollowell2@gmail.com" rel="noopener noreferrer" target="_blank"><i className="fas fa-envelope-square fa-8x"></i><h4>Email</h4></a></button>
                     <button className="button"><a href="https://github.com/alyssah1" rel="noopener noreferrer" target="_blank"><i className="fab fa-github-square fa-8x"></i><h4>GitHub</h4></a></button>
                     <button className="button"><a href="https://www.linkedin.com/in/alyssa-hollowell-86b240192/" rel="noopener noreferrer" target="_blank"><i className="fab fa-linkedin-in fa-8x"></i><h4>LinkedIn</h4></a></button>
