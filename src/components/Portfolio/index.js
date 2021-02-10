@@ -11,51 +11,53 @@ import readme from "../../images/readme.png";
 function Portfolio() {
     return (
         <>
-        <div className="container">
-        <section className="portfolio-section">
-            <h1 id="portfolio">Portfolio</h1>
-            <hr className="line"></hr>
-            <div className="row">
-                <div className="col-md-3">
-                    <a href="https://alyssah1.github.io/Code-quiz-1/">
-                        <img className="img-link" src={codequiz} alt="Code Quiz" />
-                        Code Quiz
-                    </a>
-                </div>
-                <div className="col-md-3">
-                    <a href="https://radiant-gorge-18763.herokuapp.com">
-                        <img className="img-link" src={budget} alt="Budget tracker" />
+            <div className="container">
+                <section className="portfolio-section">
+                    <h1 id="portfolio">Portfolio</h1>
+                    <hr className="line"></hr>
+                    <div className="row">
+                        <div className="card" style={{width: "20rem"}}>
+                            <div className="card-body">
+                                <h5 className="card-title">Code Quiz</h5>
+                                <img className="img-link" src={codequiz} alt="Code Quiz" />
+                                <a href="#" className="card-link">Github Repo</a>
+                                <a href="#" className="card-link">Visit Link</a>
+                            </div>
+                        </div>
+                        <div className="col-md-3">
+                            <a href="https://radiant-gorge-18763.herokuapp.com">
+                                <img className="img-link" src={budget} alt="Budget tracker" />
                         Budget Tracker
                     </a>
-                </div>
-                <div className="col-md-3">
-                    <a href="https://alyssah1.github.io/Employee-directory/">
-                        <img className="img-link" src={employeedirectory} alt="Employee directory" />
+                        </div>
+                        <div className="col-md-3">
+                            <a href="https://alyssah1.github.io/Employee-directory/">
+                                <img className="img-link" src={employeedirectory} alt="Employee directory" />
                         Employee Directory
                     </a>
-                </div>
-                <div className="col-md-3">
-                    <a href="https://github.com/alyssah1/Employee-summary">
-                        <img className="img-link" src={employeesummary} alt="Employee summary" />
+                        </div>
+                        <div className="col-md-3">
+                            <a href="https://github.com/alyssah1/Employee-summary">
+                                <img className="img-link" src={employeesummary} alt="Employee summary" />
                         Employee Summary
                     </a>
-                </div>
-                <div className="col-md-3">
-                    <a href="https://immense-hollows-39774.herokuapp.com/login">
-                        <img className="img-link" src={project1page} alt="Project 2" />
+                        </div>
+                        <div className="col-md-3">
+                            <a href="https://immense-hollows-39774.herokuapp.com/login">
+                                <img className="img-link" src={project1page} alt="Project 2" />
                         Project 2
                     </a>
-                </div>
-                <div className="col-md-3">
-                    <a href="https://github.com/alyssah1/README-generator">
-                        <img className="img-link" src={readme} alt="Readme generator" />
+                        </div>
+                        <div className="col-md-3">
+                            <a href="https://github.com/alyssah1/README-generator">
+                                <img className="img-link" src={readme} alt="Readme generator" />
                         Readme Generator
                     </a>
-                </div>
+                        </div>
+                    </div>
+                </section>
             </div>
-        </section>
-    </div>
-    </>
+        </>
     )
 }
 
