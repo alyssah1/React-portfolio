@@ -28,9 +28,8 @@ function About() {
                             <div className="col-md-9 col-sm-12">
                             <p className="aboutme-paragraph">
                             Hello! My name is Alyssa Hollowell and I am a graduate from the University of Houston. I majored in Retailing and Consumer Science and minored in Law, Values, and Policy.
-                            I am a current student at Rice University Full Stack Web Development Coding Bootcamp. 
                             I became interested in web development because I am able to show off my creativity and analytical skills. 
-                            Some of my technical skills include HTML, CSS, Javascript, MySQL, MongoDB, NodeJS, ReactJS and Bootstrap. 
+                            I completed the Full Stack Flex Web Development Program at Rice University and gained technical programming skills in HTML, CSS, Javascript, MySQL, MongoDB, NodeJS, ReactJS, and Bootstrap. 
                             </p>
                             </div>
                         </div>
