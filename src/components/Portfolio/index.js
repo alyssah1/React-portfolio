@@ -1,6 +1,6 @@
 import React from "react";
 import "../../assets/css/style.css";
-import codequiz from "../../images/codequiz.png";
+import weather from "../../images/weather.png";
 import budget from "../../images/budget.png";
 import employeedirectory from "../../images/employeedirectory.png";
 import employeesummary from "../../images/employeesummary.png";
@@ -18,10 +18,10 @@ function Portfolio() {
                     <div className="row">
                         <div className="card" style={{width: "20rem"}}>
                             <div className="card-body">
-                                <h5 className="card-title">Code Quiz</h5>
-                                <img className="img-link" src={codequiz} alt="Code Quiz" />
-                                <a href="#" className="card-link">Github Repo</a>
-                                <a href="#" className="card-link">Visit Link</a>
+                                <h5 className="card-title">Weather App</h5>
+                                <img className="img-link" src={weather} alt="Code Quiz" />
+                                <a href="https://github.com/alyssah1/Weather-app" rel="noreferrer" target="_blank" className="card-link">Github Repo</a>
+                                <a href="https://alyssah1.github.io/Weather-app/" rel="noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>
                         </div>
                         <div className="col-md-3">
