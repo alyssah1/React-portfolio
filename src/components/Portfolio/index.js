@@ -18,35 +18,43 @@ function Portfolio() {
                     <div className="row">
                         <div className="card" style={{width: "20rem"}}>
                             <div className="card-body">
-                                <h5 className="card-title">Weather App</h5>
+                                <h5 className="card-title" style={{textAlign: "center"}}>Weather App</h5>
                                 <img className="img-link" src={weather} alt="Code Quiz" />
-                                <a href="https://github.com/alyssah1/Weather-app" rel="noreferrer" target="_blank" className="card-link">Github Repo</a>
-                                <a href="https://alyssah1.github.io/Weather-app/" rel="noreferrer" target="_blank" className="card-link">Visit Link</a>
+                                <a href="https://github.com/alyssah1/Weather-app" rel="noopener noreferrer" target="_blank" style={{padding: "30px"}} className="card-link">Github Repo</a>
+                                <a href="https://alyssah1.github.io/Weather-app/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>
                         </div>
-                        <div className="col-md-3">
-                            <a href="https://radiant-gorge-18763.herokuapp.com">
-                                <img className="img-link" src={budget} alt="Budget tracker" />
-                        Budget Tracker
-                    </a>
+                        <div className="card" style={{width: "20rem"}}>
+                            <div className="card-body">
+                                <h5 className="card-title" style={{textAlign: "center"}}>Budget Tracker</h5>
+                                <img className="img-link" src={budget} alt="Budget Tracker" />
+                                <a href="https://github.com/alyssah1/Budget-tracker" rel="noopener noreferrer" target="_blank" style={{padding: "30px"}} className="card-link">Github Repo</a>
+                                <a href="https://radiant-gorge-18763.herokuapp.com/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
+                            </div>
                         </div>
-                        <div className="col-md-3">
-                            <a href="https://alyssah1.github.io/Employee-directory/">
-                                <img className="img-link" src={employeedirectory} alt="Employee directory" />
-                        Employee Directory
-                    </a>
+                        <div className="card" style={{width: "20rem"}}>
+                            <div className="card-body">
+                                <h5 className="card-title" style={{textAlign: "center"}}>Employee Directory</h5>
+                                <img className="img-link" src={employeedirectory} alt="Employee Directory" />
+                                <a href="https://github.com/alyssah1/Employee-directory" rel="noopener noreferrer" target="_blank" style={{padding: "30px"}} className="card-link">Github Repo</a>
+                                <a href="https://alyssah1.github.io/Employee-directory/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
+                            </div>
                         </div>
-                        <div className="col-md-3">
-                            <a href="https://github.com/alyssah1/Employee-summary">
-                                <img className="img-link" src={employeesummary} alt="Employee summary" />
-                        Employee Summary
-                    </a>
+                        <div className="card" style={{width: "20rem"}}>
+                            <div className="card-body">
+                                <h5 className="card-title" style={{textAlign: "center"}}>Employee Summary</h5>
+                                <img className="img-link" src={employeesummary} alt="Employee Summary" />
+                                <a href="https://github.com/alyssah1/Employee-summary" rel="noopener noreferrer" target="_blank" style={{padding: "30px"}} className="card-link">Github Repo</a>
+                                <a href="https://alyssah1.github.io/Employee-summary/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
+                            </div>
                         </div>
-                        <div className="col-md-3">
-                            <a href="https://immense-hollows-39774.herokuapp.com/login">
-                                <img className="img-link" src={project1page} alt="Project 2" />
-                        Project 2
-                    </a>
+                        <div className="card" style={{width: "20rem"}}>
+                            <div className="card-body">
+                                <h5 className="card-title" style={{textAlign: "center"}}>Dictionary</h5>
+                                <img className="img-link" src={project1page} alt="Dictionary" />
+                                <a href="https://github.com/alyssah1/Dictionary/tree/main" rel="noopener noreferrer" target="_blank" style={{padding: "30px"}} className="card-link">Github Repo</a>
+                                <a href="https://immense-hollows-39774.herokuapp.com/login" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
+                            </div>
                         </div>
                         <div className="col-md-3">
                             <a href="https://github.com/alyssah1/README-generator">

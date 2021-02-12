@@ -100,8 +100,8 @@ a.btnicon:hover{
 
 
 .button{
-    width: 14em;
-    height: 14em;
+    width: 15em;
+    height: 15em;
     background: #00ced1;
     border-radius: 50%;
     text-decoration: none;
@@ -118,3 +118,6 @@ a.btnicon:hover{
     color: #003366;
 }
 
+h6{
+    font-size: 16px;
+}
