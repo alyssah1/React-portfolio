@@ -5,7 +5,7 @@ import budget from "../../images/budget.png";
 import employeedirectory from "../../images/employeedirectory.png";
 import employeesummary from "../../images/employeesummary.png";
 import project1page from "../../images/project1page.png";
-import readme from "../../images/readme.png";
+import recipe from "../../images/recipe1.png";
 
 
 function Portfolio() {
@@ -56,11 +56,13 @@ function Portfolio() {
                                 <a href="https://immense-hollows-39774.herokuapp.com/login" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>
                         </div>
-                        <div className="col-md-3">
-                            <a href="https://github.com/alyssah1/README-generator">
-                                <img className="img-link" src={readme} alt="Readme generator" />
-                        Readme Generator
-                    </a>
+                        <div className="card" style={{width: "20rem"}}>
+                            <div className="card-body">
+                                <h5 className="card-title" style={{textAlign: "center"}}>Recipe App</h5>
+                                <img className="img-link" src={recipe} alt="Recipe App" />
+                                <a href="https://github.com/alyssah1/Recipe-app" rel="noopener noreferrer" target="_blank" style={{padding: "30px"}} className="card-link">Github Repo</a>
+                                <a href="https://alyssah1.github.io/Recipe-app/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
+                            </div>
                         </div>
                     </div>
                 </section>
