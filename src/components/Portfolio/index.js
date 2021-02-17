@@ -22,7 +22,7 @@ function Portfolio() {
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={weather} alt="Code Quiz" />
                             </div>
                             <div className="container-fluid text-center"> 
-                                <a href="https://github.com/alyssah1/Weather-app" rel="noopener noreferrer" target="_blank" className="card-link">Github Repo</a>
+                                <a href="https://github.com/alyssah1/Weather-app" rel="noopener noreferrer" target="_blank" className="card-link">GitHub Repo</a>
                                 <a href="https://alyssah1.github.io/Weather-app/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>    
                         </div>
@@ -32,7 +32,7 @@ function Portfolio() {
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={budget} alt="Budget Tracker" />
                             </div>
                             <div className="container-fluid text-center"> 
-                                <a href="https://github.com/alyssah1/Budget-tracker" rel="noopener noreferrer" target="_blank" className="card-link">Github Repo</a>
+                                <a href="https://github.com/alyssah1/Budget-tracker" rel="noopener noreferrer" target="_blank" className="card-link">GitHub Repo</a>
                                 <a href="https://radiant-gorge-18763.herokuapp.com/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>    
                         </div>
@@ -42,7 +42,7 @@ function Portfolio() {
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={employeedirectory} alt="Employee Directory" />
                             </div>
                             <div className="container-fluid text-center">
-                                <a href="https://github.com/alyssah1/Employee-directory" rel="noopener noreferrer" target="_blank" className="card-link">Github Repo</a>
+                                <a href="https://github.com/alyssah1/Employee-directory" rel="noopener noreferrer" target="_blank" className="card-link">GitHub Repo</a>
                                 <a href="https://alyssah1.github.io/Employee-directory/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>    
                         </div>
@@ -52,7 +52,7 @@ function Portfolio() {
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={employeesummary} alt="Employee Summary" />
                             </div>
                             <div className="container-fluid text-center"> 
-                                <a href="https://github.com/alyssah1/Employee-summary" rel="noopener noreferrer" target="_blank" className="card-link">Github Repo</a>
+                                <a href="https://github.com/alyssah1/Employee-summary" rel="noopener noreferrer" target="_blank" className="card-link">GitHub Repo</a>
                                 <a href="https://alyssah1.github.io/Employee-summary/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>    
                         </div>
@@ -62,7 +62,7 @@ function Portfolio() {
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={project1page} alt="Dictionary" />
                             </div>
                             <div className="container-fluid text-center"> 
-                                <a href="https://github.com/alyssah1/Dictionary/tree/main" rel="noopener noreferrer" target="_blank" className="card-link">Github Repo</a>
+                                <a href="https://github.com/alyssah1/Dictionary/tree/main" rel="noopener noreferrer" target="_blank" className="card-link">GitHub Repo</a>
                                 <a href="https://immense-hollows-39774.herokuapp.com/login" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>    
                         </div>
@@ -72,7 +72,7 @@ function Portfolio() {
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={recipe} alt="Recipe App" />
                             </div>
                             <div className="container-fluid text-center"> 
-                                <a href="https://github.com/alyssah1/Recipe-app" rel="noopener noreferrer" target="_blank" className="card-link">Github Repo</a>
+                                <a href="https://github.com/alyssah1/Recipe-app" rel="noopener noreferrer" target="_blank" className="card-link">GitHub Repo</a>
                                 <a href="https://alyssah1.github.io/Recipe-app/" rel="noopener noreferrer" target="_blank" className="card-link">Visit Link</a>
                             </div>    
                         </div>
