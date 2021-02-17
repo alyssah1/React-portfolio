@@ -17,7 +17,7 @@ The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 # Description
-This is my most current portfolio which includes six of my projects, information about myself, a contact page, github link, linkedin link and my resume. My portfolio was built with React.js, Bootstrap, CSS and HTML.
+This is my current portfolio which includes six of my projects, information about myself, a contact page, github link, linkedin link and my resume. My portfolio was built with React.js, Bootstrap, CSS and HTML.
 
 ![screenshot](./images/image.png)
 
