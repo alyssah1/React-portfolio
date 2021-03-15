@@ -18,7 +18,7 @@ function Portfolio() {
                     <div className="row">
                         <div className="card" style={{ width: "20rem", margin: "1.5rem" }}>
                             <div className="card-body">
-                                <h5 className="card-title" style={{ textAlign: "center" }}>Weather App</h5>
+                                <h5 className="card-title" style={{ textAlign: "center", fontWeight: "bold" }}>Weather App</h5>
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={weather} alt="Code Quiz" />
                             </div>
                             <div className="container-fluid text-center"> 
@@ -28,7 +28,7 @@ function Portfolio() {
                         </div>
                         <div className="card" style={{ width: "20rem", margin: "1.5rem" }}>
                             <div className="card-body">
-                                <h5 className="card-title" style={{ textAlign: "center" }}>Budget Tracker</h5>
+                                <h5 className="card-title" style={{ textAlign: "center", fontWeight: "bold" }}>Budget Tracker</h5>
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={budget} alt="Budget Tracker" />
                             </div>
                             <div className="container-fluid text-center"> 
@@ -38,7 +38,7 @@ function Portfolio() {
                         </div>
                         <div className="card" style={{ width: "20rem", margin: "1.5rem" }}>
                             <div className="card-body">
-                                <h5 className="card-title" style={{ textAlign: "center" }}>Employee Directory</h5>
+                                <h5 className="card-title" style={{ textAlign: "center", fontWeight: "bold" }}>Employee Directory</h5>
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={employeedirectory} alt="Employee Directory" />
                             </div>
                             <div className="container-fluid text-center">
@@ -48,7 +48,7 @@ function Portfolio() {
                         </div>
                         <div className="card" style={{ width: "20rem", margin: "1.5rem" }}>
                             <div className="card-body">
-                                <h5 className="card-title" style={{ textAlign: "center" }}>Employee Summary</h5>
+                                <h5 className="card-title" style={{ textAlign: "center", fontWeight: "bold" }}>Employee Summary</h5>
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={employeesummary} alt="Employee Summary" />
                             </div>
                             <div className="container-fluid text-center"> 
@@ -58,7 +58,7 @@ function Portfolio() {
                         </div>
                         <div className="card" style={{ width: "20rem", margin: "1.5rem" }}>
                             <div className="card-body">
-                                <h5 className="card-title" style={{ textAlign: "center" }}>Dictionary</h5>
+                                <h5 className="card-title" style={{ textAlign: "center", fontWeight: "bold" }}>Dictionary</h5>
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={project1page} alt="Dictionary" />
                             </div>
                             <div className="container-fluid text-center"> 
@@ -68,7 +68,7 @@ function Portfolio() {
                         </div>
                         <div className="card" style={{ width: "20rem", margin: "1.5rem" }}>
                             <div className="card-body">
-                                <h5 className="card-title" style={{ textAlign: "center" }}>Recipe App</h5>
+                                <h5 className="card-title" style={{ textAlign: "center", fontWeight: "bold" }}>Recipe App</h5>
                                 <img style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "100%"}} className="img-link" src={recipe} alt="Recipe App" />
                             </div>
                             <div className="container-fluid text-center"> 
