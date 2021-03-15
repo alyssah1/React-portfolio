@@ -1,14 +1,12 @@
 {
   "files": {
     "main.css": "/React-portfolio/static/css/main.0969229d.chunk.css",
-    "main.js": "/React-portfolio/static/js/main.e291c603.chunk.js",
-    "main.js.map": "/React-portfolio/static/js/main.e291c603.chunk.js.map",
-    "runtime-main.js": "/React-portfolio/static/js/runtime-main.bf0278ae.js",
-    "runtime-main.js.map": "/React-portfolio/static/js/runtime-main.bf0278ae.js.map",
+    "main.js": "/React-portfolio/static/js/main.042edab5.chunk.js",
+    "main.js.map": "/React-portfolio/static/js/main.042edab5.chunk.js.map",
+    "runtime-main.js": "/React-portfolio/static/js/runtime-main.53ed07d5.js",
+    "runtime-main.js.map": "/React-portfolio/static/js/runtime-main.53ed07d5.js.map",
     "static/js/2.242a1def.chunk.js": "/React-portfolio/static/js/2.242a1def.chunk.js",
     "static/js/2.242a1def.chunk.js.map": "/React-portfolio/static/js/2.242a1def.chunk.js.map",
-    "static/js/3.04050ce6.chunk.js": "/React-portfolio/static/js/3.04050ce6.chunk.js",
-    "static/js/3.04050ce6.chunk.js.map": "/React-portfolio/static/js/3.04050ce6.chunk.js.map",
     "index.html": "/React-portfolio/index.html",
     "static/css/main.0969229d.chunk.css.map": "/React-portfolio/static/css/main.0969229d.chunk.css.map",
     "static/js/2.242a1def.chunk.js.LICENSE.txt": "/React-portfolio/static/js/2.242a1def.chunk.js.LICENSE.txt",
@@ -22,9 +20,9 @@
     "static/media/weather.24472ba5.png": "/React-portfolio/static/media/weather.24472ba5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf0278ae.js",
+    "static/js/runtime-main.53ed07d5.js",
     "static/js/2.242a1def.chunk.js",
     "static/css/main.0969229d.chunk.css",
-    "static/js/main.e291c603.chunk.js"
+    "static/js/main.042edab5.chunk.js"
   ]
 }
